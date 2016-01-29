@@ -4,7 +4,7 @@
    "public": false, "path": "db"}
  ],
  "stores": [
-  {"name": "store", "url": "git@github.com:ergs/rg-db-courses.git", 
+  {"name": "db", "url": "git@github.com:ergs/rg-db-courses.git", 
    "public": false, "path": "store"}
  ]
 }
