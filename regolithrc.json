@@ -1,10 +1,10 @@
 {"groupname": "ERGS",
  "databases": [
-  {"name": "db", "url": "git@github.com:scopatz/rg-db-courses.git",
+  {"name": "coursesdb", "url": "git@github.com:scopatz/rg-db-courses.git",
    "public": false, "path": "db"}
  ],
  "stores": [
-  {"name": "db", "url": "git@github.com:scopatz/rg-db-courses.git",
+  {"name": "coursesdb", "url": "git@github.com:scopatz/rg-db-courses.git",
    "public": false, "path": "store"}
  ]
 }
