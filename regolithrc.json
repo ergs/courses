@@ -8,7 +8,6 @@
    "public": false, "path": "store"}
  ],
  "email": {
-   "from": "scopatz@cec.sc.edu",
    "url": "asmtp.mail.sc.edu",
    "port": 2525,
    "tls": true
